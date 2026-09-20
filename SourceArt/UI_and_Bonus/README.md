@@ -1,3 +1,3 @@
-# Data Chip and life icon
+# Bonus items and life icon
 
-Both sprites are 32×32 pixels. The `.piskel` files are editable sources; the matching PNGs are imported into Unity.
+Data Chip, Key, Light Bulb, Wrench, and Life Indicator are 32×32 pixel sprites. The `.piskel` files are editable sources; the matching PNGs are imported into Unity.
