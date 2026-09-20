@@ -1,0 +1,16 @@
+{
+  "modelVersion": 2,
+  "piskel": {
+    "name": "Red Scared",
+    "description": "Robot Battery Collector Red enemy scared frames.",
+    "fps": 4,
+    "height": 32,
+    "width": 32,
+    "layers": [
+      "{\"name\":\"Scared\",\"opacity\":1,\"frameCount\":8,\"chunks\":[{\"layout\":[[0],[1],[2],[3],[4],[5],[6],[7]],\"base64PNG\":\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAQAAAAAgCAYAAAD9qabkAAACFElEQVR4nO2cT0rDQBSH0zYX8M8RhGpXLtxod25EjyB6ERVKoXoRxSMobtxVNy5ctRa8gkcoygiRdBiTmWkyk858H5SGkL5vfrN4vIa0SQIAAAAAAAAAUEJ3+vWNHz/+OP3eF+DTL9zZK1a/D29T/E1Zx7L+dhVS15vQBP9sZ6MljsV7jH6fTagJ/m7OG5tfuYjY/NkafLl9+2PO3qR1ePVHHR4//mncfgBYcX6/R+qwtXds1G0+3x61a+PHj9+PPzUpOt7fTuY3o8JrOhdXSf/1w6Sskf++f1R4zen4qVY/+ckfUn6jBpAF9IkI6BPykz+k/KnOqGE7ztjUwo8fvzt/+t+okZEfJ7oPL1rizbX10lpF4MeP343f6kGgyfuz1rm6GFwPtc7VBfnJH0r+ts0o0ds9XAgsjsW5os8sg1xreDlYCCyOxTlXfvKTfxJIfuObgKpNkMO7IL8JcngXkJ/8kwDyW30FyHc9uRu6Iut6cjd0BfnJ3wsgv1YDkO8cyiOPahOqfBBCriWPPKpNqNNPfvL3AslvNQGoRh6XY5Bq5HE5BpKf/KHkN7oHMDs50Lqurieh8OPHX63f+h4AAKw+RhNAXZ0NP378fvypr183mYIfP/7ETQOostPY1MKPH381lNVSNoDO7d3f8fz8bKkF2NTCjx+/G3+r7K+Gsj+ftMWmFn78+P35AQAAAAAAACAJjh9QWoLW7XryjgAAAABJRU5ErkJggg==\"}]}"
+    ],
+    "hiddenFrames": [
+      null
+    ]
+  }
+}
