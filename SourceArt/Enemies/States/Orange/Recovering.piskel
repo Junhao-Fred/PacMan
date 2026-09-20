@@ -1,0 +1,16 @@
+{
+  "modelVersion": 2,
+  "piskel": {
+    "name": "Orange Recovering",
+    "description": "Robot Battery Collector Orange enemy recovering frames.",
+    "fps": 4,
+    "height": 32,
+    "width": 32,
+    "layers": [
+      "{\"name\":\"Recovering\",\"opacity\":1,\"frameCount\":2,\"chunks\":[{\"layout\":[[0],[1]],\"base64PNG\":\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEAAAAAgCAYAAACinX6EAAABIklEQVR4nO2WPQrCQBBGJ3Eu4M8RhKCVhbWgnb2lnsQipPAkWtrbKaS2sIoIXsEjSMTCsITFnexmHcV5VViys282H0MABEEQBEEQ/pQAfoTucJpXef963JF6Q26BKqSHLem90XhGroncAtwgfBm6pNmmiVILuQVMSVPT1B9MSOd2mi1jrbcJSD8oYEO8SiBZxsY1CqGtAGWtLspJejaqnqdrnjq0Q24BW14Otl/eeQgmyiW4CNiiNu5yCaGrQDkNPigPznLDOgfq4A65BWzQfW3bBCC3QBWy0573TzDzIMANwg/h42KRW4CKr5mC3AK+L9pUC7kFdDTWm+L5vpg7nW+qhdwCuqRFAHkdyaPUCnQbo/Ot2HTptZ2iX2ctQRAEqJkHcfKpQmW+hsgAAAAASUVORK5CYII=\"}]}"
+    ],
+    "hiddenFrames": [
+      null
+    ]
+  }
+}

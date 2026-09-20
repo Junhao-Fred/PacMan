@@ -1,0 +1,16 @@
+{
+  "modelVersion": 2,
+  "piskel": {
+    "name": "Purple Normal",
+    "description": "Robot Battery Collector Purple enemy normal frames.",
+    "fps": 4,
+    "height": 32,
+    "width": 32,
+    "layers": [
+      "{\"name\":\"Normal\",\"opacity\":1,\"frameCount\":16,\"chunks\":[{\"layout\":[[0],[1],[2],[3],[4],[5],[6],[7],[8],[9],[10],[11],[12],[13],[14],[15]],\"base64PNG\":\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAgAAAAAgCAYAAABkS8DlAAADWklEQVR4nO3dMW4TQRTG8THaFiQjbkC4ARItTQoqSmoKKxEnoEpBFYneCkpBiSipKNxwAG6Q3AEUWiSjNVkwZta7O177m3nv/5MiWGTPh957u7PYTggBAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADkYqL+C5Ti6PGz5ZDHX3/9PLGUDwCwpSplA1Ln1968eB+ent7d+pgvFz/C2ceXY0dnke+Zev7U+d6p66/O9+7IaP973wDksAGp85v1lVT5Vk+AkuZPma+uvzq/Rv/7o//j20f+oBuAJkBp3/mxQUsdppS11PneToChrM9/zvVX5zfrK9F/+j+mKrcNSJ3fDFpjfZheXTzvlftger9zrZzzPZ0Auc2fOr8L/d/vWur8LvTfVv+rHDcgdb5n3k6AlPn79vpeCLNFmD58Ej0uef7V9Vfn53D9of+6fG/9H/wWgEdD339KfU4u+Z43wN4uj0M4v2k/Lpi6/up879T1V+d7cqfPg7xtgOih3vC2HRuinj91vnfrtaxvdlc3vC3HseeMmb/P56B/LbvmoJT+97oBwL/6XgSsUF+A1Pmbpuc3q6+2Y2vYANfMFtuPDbK8AXqfhaQbAG8bYMp7UGN+G4o63/sGCFsXvZ04euWrE7MQth5buQFQb0Dq/Cjvw++Iev7U+dYuervUsu/Nr9n+O5yF60gtu+aglP6nfwiw3vBuP/QVPTZofvpp9euH7yGEtyHMb/9883hfHzZp8ruMnV8PU8oP4hjrZTh1vnfrtdzc7Npe+aH/dsRq2TUH9L8Mg24AvG6AQA7zp873Tl1/db53c4P959sAB1CfWOp8iycAyqm/Ot87df3V+RYNugFQF1aZr/7PNdT58D3/0Ndfne/dmcH+V6VsQIfMH7PQKWup8w+xVmn5nua/Df0PbvNr9D+Yy69y3DTU+VcnP//8/tG73d4lSVlLne/pBMhx/tT5MfT/cGup82Pov83+VzluQMr81aCdHC/HGLyUtdT53k6AGM/zn0P91fnq+qvz1fVX51856v9/Pwdgc5PYeQMauJY6H7+HpvlSrKXMV8+fOr9G/9uPh6D/9D8MXOvQ+dHFl5d//9U4mS122jRT1lLne6euvzrfO3X91fneqeuvzgcAAAAAAAAAAAAAACjNL5oLmt14kuTXAAAAAElFTkSuQmCC\"}]}"
+    ],
+    "hiddenFrames": [
+      null
+    ]
+  }
+}

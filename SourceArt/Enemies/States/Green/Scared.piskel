@@ -1,0 +1,16 @@
+{
+  "modelVersion": 2,
+  "piskel": {
+    "name": "Green Scared",
+    "description": "Robot Battery Collector Green enemy scared frames.",
+    "fps": 4,
+    "height": 32,
+    "width": 32,
+    "layers": [
+      "{\"name\":\"Scared\",\"opacity\":1,\"frameCount\":8,\"chunks\":[{\"layout\":[[0],[1],[2],[3],[4],[5],[6],[7]],\"base64PNG\":\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAQAAAAAgCAYAAAD9qabkAAACGklEQVR4nO2cP0vDQBiH05pZ8M8XEIRicHBwV9zEbyA6uOro6FA6ODrq6qD4DcRNdHdwkBRB8BO4uItyQiQ9YnJ3Se7Su+eB0hDS97nfDS9vQ9ooAgAAAAAAAACoYDD++MaPH3+YfucLcOkX7uwVqt+Ftyv+rqyjrr/fhNT2JnTB/7qy0BPH4j1Ev8sm1AX/IOcNzV+4iND82RpcuV37Q87epXU49QcdHj/+cdh+AJhyfr9HqrC8vq3Vbd6e7pRr48eP340/1im6en4QXSQ7pdccprfRy9GlTlkt/8b7bOk1j0ufrfrJT36f8ms1gCygS0RAl5Cf/D7lj1VGDdNxxqQWfvz47fnj/0aNjPw48bB7piRenJuvrFUGfvz47fiNHgRKn++VzrXF8HSkdK4tyE9+X/L3TUaJZG1rIrA4FufKPlMHudboZDgRWByLc7b85Cd/6kl+7ZuARZsgh7dBfhPk8DYgP/lTD/IbfQXIdz25G9oi63pyN7QF+cmfeJBfqQHIdw7lkadoE5p8EEKuJY88RZvQpp/85E88yW80ARSNPDbHoKKRx+YYSH7y+5Jf6x7A5s2x0nVtPQmFHz/+Zv3G9wAAYPrRmgDa6mz48eN3449d/bpJF/z48Ud2GkCTncakFn78+JuhqlZhA5i5uv47/trfq7UAk1r48eO34+9V/dVQ9ueTppjUwo8fvzs/AAAAAAAAAETe8QNEV4c2VvHsygAAAABJRU5ErkJggg==\"}]}"
+    ],
+    "hiddenFrames": [
+      null
+    ]
+  }
+}
