@@ -1,0 +1,16 @@
+{
+  "modelVersion": 2,
+  "piskel": {
+    "name": "Orange Normal",
+    "description": "Robot Battery Collector Orange enemy normal frames.",
+    "fps": 4,
+    "height": 32,
+    "width": 32,
+    "layers": [
+      "{\"name\":\"Normal\",\"opacity\":1,\"frameCount\":16,\"chunks\":[{\"layout\":[[0],[1],[2],[3],[4],[5],[6],[7],[8],[9],[10],[11],[12],[13],[14],[15]],\"base64PNG\":\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAgAAAAAgCAYAAABkS8DlAAADVUlEQVR4nO3dsW4TQRSF4TFyh4RkRENBRfIGSJRUKejpqayUtJQp01KiVLwDEoUret4g6SgoLUWii2S0hpU3Yde7M7v2mbn3/6QUI7xz0Ny7nontJCEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIBczNT/gVKcvHq7iXn8zY9vM0v5AABb5qVsQOr8yvXF4/DrzZe9j3n+/X04vfg9dXQW+Z6p+0+d7516/dX53p0Yrf/gA0AOG5A6v55fSZVv9QYoqf+U+er1V+dXqP9w1H96h8iPOgDUAUqHzm9rtNRmSplLne/tBohlvf9zXn91fj2/EvWn/lOa57YBqfPrRqs1m2nx4eeg3GeLp71z5Zzv6QbIrf/U+X2o/2HnUuf3of626j/PcQNS53vm7QZI6b/1xychLFdh8fJ167jk/levvzo/h+cf6q/L91b/6LcAPIp9/yn1mlzyPW+Ag12dhXB52z0umHr91fneqddfne/JoyEP8rYBYoBqw9s3NkTdf+p875prWR12twfejnHbNVPmH/IaDF/Lvj4opf6DDgC4b+iTgBXqJyB1/kOLy9vtV9fYGjbAhuVq/9ggyxug915IOgB42wBT3oOa8sdQ1PneN0DYetIbxdErX73ohbB3bOUAoN6A1PmtvDe/I+r+U+dbe9Ibs5ZDD79m6++wF25a1rKvD0qpf/qHAKsN79+HvlrHBq0/vdgNvr4L6+Y/NsaH+rDJvfw9ps6vminlF3FM9TKcOt+75lo+3Oy6Xvmh/na0rWVfH1D/MkQdALxugEAO/afO9069/up879YG68+PAUZQ31jqfIs3AMpZf3W+d+r1V+dbFHUAUC+sMl/9xzXU+fDd/9Cvvzrfu1OD9Z+XsgEdM3/KhU6ZS51/jLlKy/fU/12of3CbX6H+wVz+PMdNQ51/fX63u/7zuHdJUuZS53u6AXLsP3V+G+p/vLnU+W2ov836t/8tAMcb4LbRzs82UzReylzqfG83QBvP/b99HPXfXU/9R6H+d9FzHTP/v98D8HCTGL0BRc6lzsffpqm/FHMp89X9p86vUP/ucQzqT/1D5FzHzm+dfHO1+65xtlyN2jRT5lLne6def3W+d+r1V+d7p15/dT4AAAAAAAAAAAAAAEBp/gCwSos5rDJ/iwAAAABJRU5ErkJggg==\"}]}"
+    ],
+    "hiddenFrames": [
+      null
+    ]
+  }
+}

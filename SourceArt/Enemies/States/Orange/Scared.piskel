@@ -1,0 +1,16 @@
+{
+  "modelVersion": 2,
+  "piskel": {
+    "name": "Orange Scared",
+    "description": "Robot Battery Collector Orange enemy scared frames.",
+    "fps": 4,
+    "height": 32,
+    "width": 32,
+    "layers": [
+      "{\"name\":\"Scared\",\"opacity\":1,\"frameCount\":8,\"chunks\":[{\"layout\":[[0],[1],[2],[3],[4],[5],[6],[7]],\"base64PNG\":\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAQAAAAAgCAYAAAD9qabkAAACGElEQVR4nO2cIU/DQBiGu1EHZoBB4CALUwg8CY7/AMHgwSO2CTx4DIH/gCPBI1BbCDgEimBAEsiRlHSXo727tXfd3fMky5qm+557T3z51nRLEgAAAAAAAACAErrjt2/8+PHH6fe+AJ9+4c5esfp9eJvib8o6pvW3q5C63oQm+B83llriWLzH6PfZhJrg7+a8sfmVi4jNn63Bl9u3P+bsTVqHV3/U4fHjH8ftB4AZ5/d7pA5rW7tG3eb5/ka7Nn78+P34U5OiT4P55HX7svCalbuDZH3waVLWyH/2cVh4zfHCRa1+8pM/pPxGDSAL6BMR0CfkJ39I+VOdUcN2nLGphR8/fnf+9L9RIyM/TnSOXrTEy53F0lpF4MeP343f6kGg0cOt1rm66J8Otc7VBfnJH0r+ts0o0dvcmQgsjsW5os9Mg1xreNKfCCyOxTlXfvKTfxRIfuObgKpNkMO7IL8JcngXkJ/8owDyW30FyHc9uRu6Iut6cjd0BfnJ3wsgv1YDkO8cyiOPahOqfBBCriWPPKpNqNNPfvL3AslvNQGoRh6XY5Bq5HE5BpKf/KHkN7oH8H6+qnVdXU9C4cePv1q/9T0AAJh9jCaAujobfvz4/fhTX79uMgU/fvyJmwZQZaexqYUfP/5qKKulbABzV9d/x1/7e1MtwKYWfvz43fhbZX81lP35pC02tfDjx+/PDwAAAAAAAABJcPwAUjV41umkH6gAAAAASUVORK5CYII=\"}]}"
+    ],
+    "hiddenFrames": [
+      null
+    ]
+  }
+}
