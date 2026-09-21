@@ -1,0 +1,173 @@
+{
+  "sprite_size": [
+    32,
+    32
+  ],
+  "pixels_per_unit": 32,
+  "assets": [
+    {
+      "asset": "Assets/Project/Art/Sprites/Characters/PlayerRobot/Down_01.png",
+      "source": "PlayerRobot.png",
+      "rect_top_left": [
+        0,
+        0,
+        32,
+        32
+      ],
+      "pixel_sha256": "76af4238f01674c22c516b95a85fad9dda989f307476498a8344b5bc0ec7ea0d"
+    },
+    {
+      "asset": "Assets/Project/Art/Sprites/Characters/PlayerRobot/Down_02.png",
+      "source": "PlayerRobot.png",
+      "rect_top_left": [
+        32,
+        0,
+        32,
+        32
+      ],
+      "pixel_sha256": "ce7bc0ac4e2b6ed71f5929f4d52a04485c034ae5950d695b6d21fa934c8517a2"
+    },
+    {
+      "asset": "Assets/Project/Art/Sprites/Characters/PlayerRobot/Up_01.png",
+      "source": "PlayerRobot.png",
+      "rect_top_left": [
+        0,
+        32,
+        32,
+        32
+      ],
+      "pixel_sha256": "4f88478185baf68fc499b3417f148b96c26be00191b10d788d7015298d7bcb1a"
+    },
+    {
+      "asset": "Assets/Project/Art/Sprites/Characters/PlayerRobot/Up_02.png",
+      "source": "PlayerRobot.png",
+      "rect_top_left": [
+        32,
+        32,
+        32,
+        32
+      ],
+      "pixel_sha256": "9bb8aec2419d6e9ae964b67ddfe71b534aa89ef71282a9bdfa29a74c8135fad6"
+    },
+    {
+      "asset": "Assets/Project/Art/Sprites/Characters/PlayerRobot/Left_01.png",
+      "source": "PlayerRobot.png",
+      "rect_top_left": [
+        0,
+        64,
+        32,
+        32
+      ],
+      "pixel_sha256": "75b3de66971c6ea2d1646a3b0ca3fa8d6179c10bf02ad3825e21cf79eb530374"
+    },
+    {
+      "asset": "Assets/Project/Art/Sprites/Characters/PlayerRobot/Left_02.png",
+      "source": "PlayerRobot.png",
+      "rect_top_left": [
+        32,
+        64,
+        32,
+        32
+      ],
+      "pixel_sha256": "2ab12daf94a22b0abfc2df0048543306dce920f4a68cf21182316eb86ed3a528"
+    },
+    {
+      "asset": "Assets/Project/Art/Sprites/Characters/PlayerRobot/Right_01.png",
+      "source": "PlayerRobot.png",
+      "rect_top_left": [
+        0,
+        96,
+        32,
+        32
+      ],
+      "pixel_sha256": "de1482592bd747567fe84d571558f9cc66f67c0c2dd425318fafc62f8fa0fa21"
+    },
+    {
+      "asset": "Assets/Project/Art/Sprites/Characters/PlayerRobot/Right_02.png",
+      "source": "PlayerRobot.png",
+      "rect_top_left": [
+        32,
+        96,
+        32,
+        32
+      ],
+      "pixel_sha256": "a411ae08824896d8e1cfb45f6aecedb920a472fa3db201b175f0772ec958a23d"
+    },
+    {
+      "asset": "Assets/Project/Art/Sprites/Characters/PlayerRobot/Death_01.png",
+      "source": "PlayerRobot.png",
+      "rect_top_left": [
+        0,
+        128,
+        32,
+        32
+      ],
+      "pixel_sha256": "bd357f7906f081bc917cee54047de474d40a73d7143da4ed73c7804c19841f59"
+    },
+    {
+      "asset": "Assets/Project/Art/Sprites/Characters/PlayerRobot/Death_02.png",
+      "source": "PlayerRobot.png",
+      "rect_top_left": [
+        32,
+        128,
+        32,
+        32
+      ],
+      "pixel_sha256": "9ce686c0e6f2ba4e08c335b4d90a26706e6eebf233c6bf308d5fee71295825af"
+    },
+    {
+      "asset": "Assets/Project/Art/Sprites/Collectibles/Batteries/BatteryCell.png",
+      "source": "Battery_and_Walls/BatteryCell.png",
+      "rect_top_left": null,
+      "pixel_sha256": "26cd2075b33562a2833a1399589472cc04be18df1d22051f74f98a33e4589144"
+    },
+    {
+      "asset": "Assets/Project/Art/Sprites/Collectibles/Batteries/PowerBattery_01.png",
+      "source": "Battery_and_Walls/PowerBattery_01.png",
+      "rect_top_left": null,
+      "pixel_sha256": "4cd2ae5dc7b17eed2b807332f214da9c8bf5bb932a9e8f544ef9d4d880d116fe"
+    },
+    {
+      "asset": "Assets/Project/Art/Sprites/Collectibles/Batteries/PowerBattery_02.png",
+      "source": "Battery_and_Walls/PowerBattery_02.png",
+      "rect_top_left": null,
+      "pixel_sha256": "a992e9a21eed526d3e661a29e5cf1e2f4a71a90cba64a6a882cec773ccfa80fe"
+    },
+    {
+      "asset": "Assets/Project/Art/Sprites/Level/Walls/InsideCorner.png",
+      "source": "Battery_and_Walls/InsideCorner.png",
+      "rect_top_left": null,
+      "pixel_sha256": "b070d1774d59381c26ea7fb3fa28f80d596475667687cd2381bc50f7c11723e1"
+    },
+    {
+      "asset": "Assets/Project/Art/Sprites/Level/Walls/InsideStraight.png",
+      "source": "Battery_and_Walls/InsideStraight.png",
+      "rect_top_left": null,
+      "pixel_sha256": "1231a7d40da3e568ac3db022f076ad799cbc18d6efe66c28e217e983a1525e6f"
+    },
+    {
+      "asset": "Assets/Project/Art/Sprites/Level/Walls/LaserGate.png",
+      "source": "Battery_and_Walls/LaserGate.png",
+      "rect_top_left": null,
+      "pixel_sha256": "c6817887d616527ae0c6037db7522c56094e38364970429eaa96b003a9227345"
+    },
+    {
+      "asset": "Assets/Project/Art/Sprites/Level/Walls/OutsideCorner.png",
+      "source": "Battery_and_Walls/OutsideCorner.png",
+      "rect_top_left": null,
+      "pixel_sha256": "02963256a3ffd4dfaf23d4de6a7b4e8fa1ac83ff8cc799e11430bf6618ba3c46"
+    },
+    {
+      "asset": "Assets/Project/Art/Sprites/Level/Walls/OutsideStraight.png",
+      "source": "Battery_and_Walls/OutsideStraight.png",
+      "rect_top_left": null,
+      "pixel_sha256": "405aaa60ac69947310e79701ae51ef097b078e47853471b494231513fba05b2f"
+    },
+    {
+      "asset": "Assets/Project/Art/Sprites/Level/Walls/TJunction.png",
+      "source": "Battery_and_Walls/TJunction.png",
+      "rect_top_left": null,
+      "pixel_sha256": "f2cb1a1261584f24f4ae24d4f17494000e9e58b82c522de83a00cf8d3037f25c"
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "modelVersion": 2,
+  "piskel": {
+    "name": "Purple Dead",
+    "description": "Robot Battery Collector Purple enemy dead frames.",
+    "fps": 4,
+    "height": 32,
+    "width": 32,
+    "layers": [
+      "{\"name\":\"Dead\",\"opacity\":1,\"frameCount\":4,\"chunks\":[{\"layout\":[[0],[1],[2],[3]],\"base64PNG\":\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAIAAAAAgCAYAAADaInAlAAABAklEQVR4nO3ZsQ2CQBTG8aeh1QTjCI7gALZWltZ2hAmsKKicgNBZW1rZMoAjuIOJDqAdOS2MZw6Pd/f/VSRcgPfelyMBEQAAAAAAEIuBKDGbLx826y/nk5rafEo0DaBc72WRjT6uaeq7FIeN61tLH+r3GgDfAzCv70sZYACtAuB7AH3QBBZA6wD4lNer9vi6Hb+cS3e39niaTiRUjeMAWgUg9gHkRv1mD8zatdWvagcwvTc9BnkHAfw5ADEOIMQeqN0BIE4COHTyJFCLAERO1Sugyo5frevyQ1TUAYh9AFWA9avaATQ1VksAEy0D6MPPlSLAAHpvKuL+GwkAAAAAAORvnot+YYMh33eeAAAAAElFTkSuQmCC\"}]}"
+    ],
+    "hiddenFrames": [
+      null
+    ]
+  }
+}

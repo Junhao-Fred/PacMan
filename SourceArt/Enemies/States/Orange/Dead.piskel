@@ -1,0 +1,16 @@
+{
+  "modelVersion": 2,
+  "piskel": {
+    "name": "Orange Dead",
+    "description": "Robot Battery Collector Orange enemy dead frames.",
+    "fps": 4,
+    "height": 32,
+    "width": 32,
+    "layers": [
+      "{\"name\":\"Dead\",\"opacity\":1,\"frameCount\":4,\"chunks\":[{\"layout\":[[0],[1],[2],[3]],\"base64PNG\":\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAIAAAAAgCAYAAADaInAlAAAA/0lEQVR4nO3ZMQrCQBCF4VHSCcKKTQo7cwN7a0/hEWwtU9p6BE9hbe8NtLOwDAjW2oXVQoxs3MzO/1WBLElm5rGBRAQAAAAAAFjREyWms8Wjyfrzca+mtpgyTQM4lQO5zncf1+SHpRTlPfStpQv1Rw1A7AH414/llGAAGwUg9gC6IE8sgI0DEJNbXerjaj18Pbe51cdjN5JU5YED2CgA1gfgvPr9Hvi1a6tf1Q7ge2+6Ba6FAP4cAIsDSLEHancASJAA9oM8CdQiAMapegVU28lX69r8EGU6ANYHUCVYv6odQFNjtQQw0zKALvxcKRIMYPSmwvbfSAAAAAAAIH/zBHvSXbnS0e6uAAAAAElFTkSuQmCC\"}]}"
+    ],
+    "hiddenFrames": [
+      null
+    ]
+  }
+}

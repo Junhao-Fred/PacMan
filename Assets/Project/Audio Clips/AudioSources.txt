@@ -1,0 +1,104 @@
+Robot Battery Collector - Audio Asset Sources
+Generated: 2026-09-19
+
+LICENSE POLICY
+All 11 included assets were selected from source pages that explicitly identify the
+work as Creative Commons Zero (CC0) / Public Domain. CC0 permits copying,
+modification, distribution, and commercial use without attribution. Source details
+are retained here for provenance and assessment documentation.
+
+CC0 1.0 Universal legal information:
+https://creativecommons.org/publicdomain/zero/1.0/
+
+MUSIC
+
+Output: Music/BGM_GameIntro.ogg
+Original name: title.ogg (Title)
+Author: SRG774
+Source page: https://opengameart.org/content/dark-sci-fi-audio-pack
+License: CC0 1.0 Universal / Public Domain
+Processing: Renamed from the original OGG supplied in the page's ogg.zip archive.
+
+Output: Music/BGM_StartScene.ogg
+Original name: sector.ogg (Sector)
+Author: SRG774
+Source page: https://opengameart.org/content/dark-sci-fi-audio-pack
+License: CC0 1.0 Universal / Public Domain
+Processing: Renamed from the original OGG supplied in the page's ogg.zip archive.
+
+Output: Music/BGM_DroneNormal.ogg
+Original name: singularity_calm.wav
+Author: vitalezzz
+Source page: https://opengameart.org/content/singularity-0
+License: CC0 1.0 Universal / Public Domain
+Processing: Converted from the source WAV to Unity-compatible OGG Vorbis (quality 6).
+
+Output: Music/BGM_DroneScared.ogg
+Original name: singularity_action.wav
+Author: vitalezzz
+Source page: https://opengameart.org/content/singularity-0
+License: CC0 1.0 Universal / Public Domain
+Processing: Converted from the source WAV to Unity-compatible OGG Vorbis (quality 6).
+
+Output: Music/BGM_DroneDead.ogg
+Original name: claimed_by_the_void_loop.wav
+Author: vitalezzz
+Source page: https://opengameart.org/content/claimed-by-the-void
+License: CC0 1.0 Universal / Public Domain
+Processing: The supplied loop version was converted from source WAV to
+Unity-compatible OGG Vorbis (quality 6).
+
+SOUND EFFECTS
+
+Output: SFX/SFX_RobotMovement.wav
+Original name: 505670__breviceps__robot-mech-movement.wav
+Author: Breviceps
+Source page: https://freesound.org/people/Breviceps/sounds/505670/
+License: CC0 1.0 Universal / Public Domain
+Processing: Original authenticated Freesound WAV download; renamed without
+re-encoding (44.1 kHz, 16-bit PCM WAV).
+
+Output: SFX/SFX_BatteryCollect.wav
+Original name: 470768__se2001__collect-coin.wav
+Author: se2001
+Source page: https://freesound.org/people/se2001/sounds/470768/
+License: CC0 1.0 Universal / Public Domain
+Processing: Original authenticated Freesound WAV download; renamed without
+re-encoding (44.1 kHz, 16-bit mono PCM WAV).
+
+Output: SFX/SFX_DroneDestroyed.wav
+Original name: mechanical_explosion.wav
+Author: Spring Spring
+Source page: https://opengameart.org/content/mechanical-explosion
+License: CC0 1.0 Universal / Public Domain
+Processing: Source WAV normalized to 44.1 kHz, 16-bit PCM WAV.
+
+Output: SFX/SFX_DataChipCollect.wav
+Original name: 538146__fupicat__plingy-coin.wav
+Author: Fupicat
+Source page: https://freesound.org/people/Fupicat/sounds/538146/
+License: CC0 1.0 Universal / Public Domain
+Processing: Original authenticated Freesound WAV download; renamed without
+re-encoding (44.1 kHz, 16-bit PCM WAV).
+
+Output: SFX/SFX_WallCollision.wav
+Original name: 332056__qubodup__fast-collision.flac
+Author: qubodup
+Source page: https://freesound.org/people/qubodup/sounds/332056/
+License: CC0 1.0 Universal / Public Domain
+Processing: Original authenticated Freesound FLAC download; converted from
+48 kHz, 24-bit mono FLAC to 44.1 kHz, 16-bit mono PCM WAV.
+
+Output: SFX/SFX_RobotDeath.wav
+Original name: 580085__beetlemuse__robotic-shut-down.wav
+Author: Beetlemuse
+Source page: https://freesound.org/people/Beetlemuse/sounds/580085/
+License: CC0 1.0 Universal / Public Domain
+Processing: Original authenticated Freesound WAV download; renamed without
+re-encoding (44.1 kHz, 16-bit PCM WAV).
+
+UNITY NOTES
+- OGG music files are compressed and suitable for longer looping clips.
+- WAV sound effects are uncompressed PCM for responsive one-shot playback.
+- For BGM loops, enable Loop on the Unity AudioSource. The Dark Sci-Fi Audio Pack
+  author recommends a slight crossfade for the smoothest transitions.
