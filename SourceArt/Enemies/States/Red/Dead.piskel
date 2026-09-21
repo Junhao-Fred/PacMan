@@ -1,0 +1,16 @@
+{
+  "modelVersion": 2,
+  "piskel": {
+    "name": "Red Dead",
+    "description": "Robot Battery Collector Red enemy dead frames.",
+    "fps": 4,
+    "height": 32,
+    "width": 32,
+    "layers": [
+      "{\"name\":\"Dead\",\"opacity\":1,\"frameCount\":4,\"chunks\":[{\"layout\":[[0],[1],[2],[3]],\"base64PNG\":\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAIAAAAAgCAYAAADaInAlAAAA/UlEQVR4nO3ZQQqCQBTG8Ve6DoyOENgB2pQnqBNFtIzoRHUCa9MBErpD0D5qJ1OLaGJsfDP/30pwUN97HyOoCAAAAAAAiEVHlBiOZw+b9ZfTXk1tPqWaBlBORnLfrD+uSZYrKY5n17eWNtTvNQC+B2Be35cywABaBcD3ANogCSyA1gHwKd8d6uProvdyLtve6uNB1pdQJY4DaBWA2AeQG/WbPTBr11a/qh3A9N70GOQNBPDnAMQ4gBB7oHYHgDgJYNfJk0AtAhA5Va+Aaj79al2TH6KiDkDsA6gCrF/VDqCpsVoCmGoZQBt+rhQBBtB7UxH330gAAAAAACB/8wRUUF55M9sTzQAAAABJRU5ErkJggg==\"}]}"
+    ],
+    "hiddenFrames": [
+      null
+    ]
+  }
+}

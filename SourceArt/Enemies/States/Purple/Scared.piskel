@@ -1,0 +1,16 @@
+{
+  "modelVersion": 2,
+  "piskel": {
+    "name": "Purple Scared",
+    "description": "Robot Battery Collector Purple enemy scared frames.",
+    "fps": 4,
+    "height": 32,
+    "width": 32,
+    "layers": [
+      "{\"name\":\"Scared\",\"opacity\":1,\"frameCount\":8,\"chunks\":[{\"layout\":[[0],[1],[2],[3],[4],[5],[6],[7]],\"base64PNG\":\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAQAAAAAgCAYAAAD9qabkAAACHElEQVR4nO2cP0vDQBiH05rVwT/g5CYUO3XwA4ibk6OLDm7FryBYKvgVpJuDLo5ObuIHcOjUIrg5OTg5i3JCJD3O5O6a3KV3zwOlIaTvc78bXt6GtEkCAAAAAAAAAFBCZ/rxjR8//jj93hfg0y/c2StWvw9vU/xNWce8/nYVUteb0AT/y/ZaSxyL9xj9PptQE/ydnDc2v3IRsfmzNfhy+/bHnL1J6/Dqjzo8fvzTuP0AsOD8fo/UYWtn36jbvD4/aNfGjx+/H39qUvTi8DrZ7S8XXvM0+kzO705Myhr53zfHhddsvPVq9ZOf/CHlN2oAWUCfiIA+IT/5Q8qf6owatuOMTS38+PG786f/jRoZ+XHidHSgJV5fWS2tVQR+/Pjd+K0eBJqMH7XO1cXgcqh1ri7IT/5Q8rdtRolub28msDgW54o+Mw9yreHZYCawOBbnXPnJT/5JIPmNbwKqNkEO74L8JsjhXUB+8k8CyG/1FSDf9eRu6Iqs68nd0BXkJ383gPxaDUC+cyiPPKpNqPJBCLmWPPKoNqFOP/nJ3w0kv9UEoBp5XI5BqpHH5RhIfvKHkt/oHsBV/17rurqehMKPH3+1fut7AACw+BhNAHV1Nvz48fvxp75+3WQKfvz4EzcNoMpOY1MLP3781VBWS9kAlm5u/46/jo/mWoBNLfz48bvxt8r+aij780lbbGrhx4/fnx8AAAAAAAAAkuD4AbQAeyZtCtNrAAAAAElFTkSuQmCC\"}]}"
+    ],
+    "hiddenFrames": [
+      null
+    ]
+  }
+}

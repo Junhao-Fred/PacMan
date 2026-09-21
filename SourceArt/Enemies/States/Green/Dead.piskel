@@ -1,0 +1,16 @@
+{
+  "modelVersion": 2,
+  "piskel": {
+    "name": "Green Dead",
+    "description": "Robot Battery Collector Green enemy dead frames.",
+    "fps": 4,
+    "height": 32,
+    "width": 32,
+    "layers": [
+      "{\"name\":\"Dead\",\"opacity\":1,\"frameCount\":4,\"chunks\":[{\"layout\":[[0],[1],[2],[3]],\"base64PNG\":\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAIAAAAAgCAYAAADaInAlAAABBElEQVR4nO3ZMQrCQBCF4VFSCxGPYCUpPUBa8QZ2trG08Qg2ltraeQOxzQEsg5V3ELyAdmG1EFc2bmb3/6pAliQz89hAIgIAAAAAAGLRESWG48nDZv31fFJTm0+JpgFk27nsRtOPa4rLUarF3vWtpQ31ew2A7wGY1/clCzCAVgHwPYA2KAILoHUAfCpnm/r4tuq9nEvX9/p4kPYlVIXjAFoFIPYBlEb9Zg/M2rXVr2oHML03PQZlAwH8OQAxDiDEHqjdASBOAth18iRQiwBETtUrID8sv1rX5IeoqAMQ+wDyAOtXtQNoaqyWACZaBtCGnytVgAH03lTE/TcSAAAAAADI3zwBHeVihdhJxlkAAAAASUVORK5CYII=\"}]}"
+    ],
+    "hiddenFrames": [
+      null
+    ]
+  }
+}
